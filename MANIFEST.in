@@ -1,0 +1,2 @@
+recursive-include pandora_cli *.py
+include CHANGES.rst
